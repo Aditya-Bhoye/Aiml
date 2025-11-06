@@ -1,3 +1,4 @@
+
 import heapq
 def a_star(graph,heuristics,start,goal):
     priority_queue=[(0,start)]
